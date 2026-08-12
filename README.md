@@ -2,9 +2,11 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning k8s, ArgoCD and Trino
-- 💬 Ask me about Airflow and Luigi pipelines, SQL and Redshift
-- 📫 How to reach me: check my [CV](http://gparrello.com)
+### Hi there 👋
+
+- 🔧 **Skills**: API, Airflow, ArgoCD, AWS, BigQuery, Claude, ClickHouse, Copilot, CubeJS, Cursor, Docker, GCP, Gemini, Grafana, Helm, Hermes, Kubernetes, LiteLLM, LLM, MCP, Nginx, OmniRoute, OpenMetadata, Opencode, OpenTelemetry, OPNsense, Proxmox, Python, SQL, Starrocks, Superset, Terraform, Traefik, Trino, Wireguard
+- 💬 Ask me about data platforms, agentic workflows, and infrastructure
+- 📫 **CV**: [gparrello.com](http://gparrello.com)
 
 
 <!--
