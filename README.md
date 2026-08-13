@@ -1,7 +1,3 @@
-![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
-
-### Hi there 👋
-
 ### Hi there 👋
 
 - 🔧 **Skills**: API, Airflow, ArgoCD, AWS, BigQuery, Claude, ClickHouse, Copilot, CubeJS, Cursor, Docker, GCP, Gemini, Grafana, Helm, Hermes, Kubernetes, LiteLLM, LLM, MCP, Nginx, OmniRoute, OpenMetadata, Opencode, OpenTelemetry, OPNsense, Proxmox, Python, SQL, Starrocks, Superset, Terraform, Traefik, Trino, Wireguard
